@@ -11,7 +11,7 @@ Source: CodeWithHarry
 - Variables & Data Types  
 - Operators & Expressions  
 - Conditional Statements  
-- Loops & Control Flow    
+- Loops & Control Flow       
 - Functions & Recursion  
 - Arrays & Strings  
 - Pointers & Dynamic Memory Allocation  
